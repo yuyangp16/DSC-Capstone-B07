@@ -12,9 +12,11 @@ Welcome to the DSC180A Capstone Project: Graph ML for Chip Profiling. This repos
 To access the data required for Assignment 3, please download it using the following link: [Data Download Link](https://drive.google.com/file/d/1Scq35gvCQvIMrmthGs7MUhc8c1VZ8ZwN/view)
 
 
-## Running the project
-- Install dependencies by running pip install -r requirements.txt in each assignment folder.
-- Each assignment folder contains an IPython notebook (ipynb) with preloaded imports, data retrieval from the current directory, and code to produce the answers. 
+## Running the Project
+1. For a streamlined environment setup, run `conda env create -f environment.yml` in the root directory.
+2. Install dependencies by running `pip install -r requirements.txt` in each assignment folder.
+3. Download data for Assignment 3, unzip the file, and place it in the same directory as Assignment 3.
+4. Each assignment folder contains an IPython notebook (ipynb) with preloaded imports, data retrieval from the current directory, and code to produce the answers. 
 
 Feel free to explore each assignment's respective folders for detailed instructions, code, and insights gained during our exploration in the realm of Graph Machine Learning for Chip Profiling.
 
